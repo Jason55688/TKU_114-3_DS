@@ -1,6 +1,6 @@
 public class DrinkMenu {
     public static void main(String[] args) {
-        int option = 2;
+        int option = 3;
 
         switch (option) {
             case 1:

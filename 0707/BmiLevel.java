@@ -1,6 +1,6 @@
 public class BmiLevel {
   public static void main(String[] args) {
-    double bmi = 22.5;
+    double bmi = 25;
 
     if (bmi < 18.5) {
       System.out.println("BMI level: Underweight");
